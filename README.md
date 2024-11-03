@@ -51,6 +51,6 @@ Python: Utilized for data cleaning and preprocessing to ensure data accuracy and
 # Insights and Applications
 The Customer Performance Dashboard offers actionable insights for:
 
-Marketing Teams: To target customer segments based on demographics, engagement levels, and purchasing patterns.
+Marketing Teams: To target customer segments based on demographics, engagement levels, and purchasing patterns.\n
 Sales Teams: To identify and focus on high-value customers and top revenue-generating segments.
 Executive Leadership: For high-level insights on customer demographics and revenue breakdown, assisting in strategic planning and investment.
