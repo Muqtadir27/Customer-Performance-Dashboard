@@ -12,7 +12,7 @@ Revenue Segmentation by Age Group:
 Analyzes revenue contributions across different age segments, offering insights into high-value customer groups. This helps in focusing marketing efforts on the most profitable demographics.
 
 Customer Profiling (Loyal, Periodic, VIP):
-Segments customers into categories based on engagement levels, such as loyal, periodic, and VIP. These categories aid in targeted customer relationship strategies, helping businesses invest in customer retention where it matters most.
+Segment customers into categories based on engagement levels, such as loyal, periodic, and VIP. These categories aid in targeted customer relationship strategies, helping businesses invest in customer retention where it matters most.
 
 Gender-Based Earnings:
 A breakdown of revenue contribution by gender, highlighting gender-specific trends in purchasing behavior. This information can guide marketing teams in crafting personalized campaigns.
