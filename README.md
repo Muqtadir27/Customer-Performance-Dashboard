@@ -37,6 +37,11 @@ Developed two themes—Light and Dark—to enhance usability based on the viewer
 
 Data Mapping and Segmentation:
 Implemented advanced segmentation methods to identify high-value customer groups. By mapping revenue data across various demographics, the dashboard provides clear insights into customer distribution and revenue sources.
+# Screenshots
+Light Theme
+![Final Light Theme](https://github.com/user-attachments/assets/7e7f2eee-7009-454e-bcc6-cdbcdad1c1c6)
+Dark Theme
+![Final Dark Theme](https://github.com/user-attachments/assets/2e8c0a27-bdc9-4dc1-af84-081d405976eb)
 
 # Tools and Technologies Used
 Power BI: For creating interactive visualizations and dashboards with real-time data insights.
