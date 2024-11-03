@@ -44,13 +44,13 @@ Dark Theme
 ![Final Dark Theme](https://github.com/user-attachments/assets/2e8c0a27-bdc9-4dc1-af84-081d405976eb)
 
 # Tools and Technologies Used
-Power BI: For creating interactive visualizations and dashboards with real-time data insights.
-SQL: Used for data extraction, transformation, and loading (ETL) to prepare the data for analysis.
-Python: Utilized for data cleaning and preprocessing to ensure data accuracy and uniformity.
+Power BI: For creating interactive visualizations and dashboards with real-time data insights.   
+SQL: Used for data extraction, transformation, and loading (ETL) to prepare the data for analysis.   
+Python: Utilized for data cleaning and preprocessing to ensure data accuracy and uniformity.    
 
 # Insights and Applications
 The Customer Performance Dashboard offers actionable insights for:
 
-Marketing Teams: To target customer segments based on demographics, engagement levels, and purchasing patterns.\n
+Marketing Teams: To target customer segments based on demographics, engagement levels, and purchasing patterns.
 Sales Teams: To identify and focus on high-value customers and top revenue-generating segments.
 Executive Leadership: For high-level insights on customer demographics and revenue breakdown, assisting in strategic planning and investment.
